@@ -1,2 +1,2 @@
 # Notes-Keeper
-Created with CodeSandbox
+A simple notes app to add and delete the notes with dynamic frontend
